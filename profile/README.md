@@ -1,4 +1,4 @@
-# air @ UF
+# air @ UF (COMING FALL 2026)
 
 **air** is a University of Florida student organization focused on the frontier of physical AI. We're researching how machines perceive, predict, and interact with the physical world through visual learning and physical embodiment.
 
